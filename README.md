@@ -20,9 +20,8 @@ limitations under the License.
 
 
 # NOTE: 
-
-  ## This repository contains linux build files for nvidiagpubeat(https://github.com/eBay/nvidiagpubeat/tree/withBeats7.3)
-  ## This build requires Elasticsearch version to be 7.x 
+  ### This repository contains linux build files for nvidiagpubeat(https://github.com/eBay/nvidiagpubeat/tree/withBeats7.3)
+  ### This build requires Elasticsearch version to be 7.x 
 
 # nvidiagpubeat
 
